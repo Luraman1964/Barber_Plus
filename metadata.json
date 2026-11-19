@@ -1,0 +1,6 @@
+{
+  "name": "Casa & Navaja — Barbería de Autor",
+  "description": "Reserva tu cita en Casa & Navaja. Barbería clásica y precisión contemporánea con confirmación directa por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
